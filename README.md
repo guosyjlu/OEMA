@@ -1,4 +1,4 @@
-**This is the codebase for our paper "Sample Efficient Offline-to-online Reinforcement Learning" (under review).**
+**This is the codebase for our paper "Sample Efficient Offline-to-Online Reinforcement Learning" (under review).**
 
 Our codebase is mainly built on top of the official implementations of TD3+BC (https://github.com/sfujim/TD3_BC), TD3 (https://github.com/sfujim/TD3) and BR (https://github.com/shlee94/Off2OnRL).
 
