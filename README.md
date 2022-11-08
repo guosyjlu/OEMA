@@ -11,7 +11,7 @@ Our codebase is mainly built on top of the official implementations of TD3+BC (h
    python main.py --env halfcheetah-random-v0
    ```
 
-2. Finetune agents via different offline-to-online RL algorithms with 300K environment steps. For example, we can finetune the halfcheetah-random offline RL agents with the proposed OEMA algorithm. The detailed hyperparameters can be found in the supplementary material pdf.
+2. Finetune agents via different offline-to-online RL algorithms with 300K environment steps. For example, we can finetune the halfcheetah-random offline RL agents with the proposed OEMA algorithm as follows.
 
    ```shell
    cd TD3_OEMA
