@@ -1,4 +1,6 @@
-**This is the codebase for our paper "Sample Efficient Offline-to-Online Reinforcement Learning" (under review).**
+**This is the codebase for our paper "Sample Efficient Offline-to-Online Reinforcement Learning".**
+
+## OEMA
 
 Our codebase is mainly built on top of the official implementations of TD3+BC (https://github.com/sfujim/TD3_BC), TD3 (https://github.com/sfujim/TD3) and BR (https://github.com/shlee94/Off2OnRL).
 
@@ -26,3 +28,15 @@ Our codebase is mainly built on top of the official implementations of TD3+BC (h
 - MuJoCo 2.2.0
 - mujoco-py 2.1.2.14
 - d4rl
+
+## Cite
+Please cite our work if you find it useful:
+```
+@article{OEMA,
+  title={Sample Efficient Offline-to-Online Reinforcement Learning},
+  author={Guo, Siyuan and Zou, Lixin and Chen, Hechang and Qu, Bohao and Chi, Haotian and Philip, S Yu and Chang, Yi},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2023},
+}
+```
+
