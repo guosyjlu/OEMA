@@ -37,6 +37,7 @@ Please cite our work if you find it useful:
   author={Guo, Siyuan and Zou, Lixin and Chen, Hechang and Qu, Bohao and Chi, Haotian and Philip, S Yu and Chang, Yi},
   journal={IEEE Transactions on Knowledge and Data Engineering},
   year={2023},
+  publisher={IEEE}
 }
 ```
 
