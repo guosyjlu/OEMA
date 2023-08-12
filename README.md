@@ -1,4 +1,4 @@
-**This is the codebase for our paper "Sample Efficient Offline-to-Online Reinforcement Learning".**
+**This is the codebase for our paper "Sample Efficient Offline-to-Online Reinforcement Learning" (TKDE 2023).**
 
 ## OEMA
 
