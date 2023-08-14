@@ -20,7 +20,7 @@ Our codebase is mainly built on top of the official implementations of TD3+BC (h
    python main.py --env halfcheetah-random-v0 --optimism_level 5.0 --beta 1.0 --max_timesteps 300000
    ```
 
-## Hyper-parameter Setting
+### Hyper-parameter Setting
 
 | D4RL-v0                   | Optimism Level | Meta Weight |
 | :------------------------- | :--------------: | :-----------: |
